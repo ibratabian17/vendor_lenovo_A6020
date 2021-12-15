@@ -618,7 +618,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/na/verizon/hvolte/mcfg_sw.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/na/verizon/hvolte/mcfg_sw.mbn \
     vendor/lenovo/A6020/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/na/verizon/svlte/mcfg_sw.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/na/verizon/svlte/mcfg_sw.mbn \
     vendor/lenovo/A6020/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sa/brazil/commerci/mcfg_sw.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sa/brazil/commerci/mcfg_sw.mbn \
-    vendor/lenovo/A6020/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sea/smartfre/commerci/mcfg_sw.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sea/smartfre/commerci/mcfg_sw.mbn
+    vendor/lenovo/A6020/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sea/smartfren/commerci/mcfg_sw.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sea/smartfre/commerci/mcfg_sw.mbn
 
 PRODUCT_PACKAGES += \
     colorservice \
